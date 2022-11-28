@@ -404,6 +404,8 @@
         </tr>
         </table>
     </fieldset>
+        <input type="submit" id="subimit" name="subimit" value="subimit">
+        <input type="reset" id="reset" name="reset" value="reset">
 </form>
 </main>
 </body>
